@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "CS300 setup is working!" << endl;
+    cout << "Test number 2 for github!" << endl;
     return 0;
 }
